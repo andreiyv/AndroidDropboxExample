@@ -1,5 +1,5 @@
 package com.example.admin.androiddropboxexample;
-
+// modified fro API 8
 import android.app.Activity;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
